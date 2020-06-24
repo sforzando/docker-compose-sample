@@ -8,6 +8,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image via docker-compose
-      run: docker-compose up --build
+      run: docker-compose up --build --detach
     - name: Check logs
       run: docker-compose logs

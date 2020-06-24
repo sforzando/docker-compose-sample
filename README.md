@@ -1,5 +1,7 @@
 # docker-compose-sample
 
+![docker-compose Sample CI](https://github.com/sforzando/docker-compose-sample/workflows/docker-compose%20Sample%20CI/badge.svg)
+
 - [Run](#run)
 - [Stop](#stop)
 - [Check](#check)
